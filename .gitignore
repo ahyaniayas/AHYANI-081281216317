@@ -104,7 +104,7 @@ nbproject/
 build/
 nbbuild/
 dist/
-!public/assets/admin/dist/
+!assets/admin/dist/
 nbdist/
 nbactions.xml
 nb-configuration.xml
